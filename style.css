@@ -1,0 +1,19 @@
+.home-list {
+    text-align: left;
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.home-header{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+    color: darkgreen;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+body{
+    background-color: whitesmoke;
+}
